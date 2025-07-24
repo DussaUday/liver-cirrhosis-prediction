@@ -4,7 +4,7 @@
 # User Manual
 
 ## Using the Web Interface
-1. Access `http://localhost:5000`
+1. Access `http://127.0.0.1:5000/`
 2. Fill all fields:
    - Age: Patient age in years
    - Gender: Male/Female
